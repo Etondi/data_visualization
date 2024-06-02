@@ -29,8 +29,7 @@ The dashboard contains several key visualizations:
 2. **Price by Zipcode**: A map and bar chart illustrating the average price per zipcode.
 3. **Revenue for Year**: A line graph showing the cumulative revenue throughout the year.
 
-
-#### Key Observations from Visualizations
+### Key Observations from Visualizations
 - **Average Price per Bedroom**: 
   - Properties with more bedrooms tend to have higher average prices, peaking at 6 bedrooms.
   - The price increases significantly from 4 to 6 bedrooms.

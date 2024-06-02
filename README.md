@@ -12,7 +12,7 @@
 
 
 ## Project Overview
-This project focuses on analyzing the Airbnb market to identify the best location for purchasing a property and renting it out.
+This project focuses on visualizating the Airbnb market to identify the best location for purchasing a property and renting it out.
 
 ## Data Sources
 The dataset used in this project was obtained from [Inside Airbnb](https://insideairbnb.com/get-the-data/).
@@ -32,10 +32,10 @@ The dashboard contains several key visualizations:
 ### Key Observations from Visualizations
 - **Average Price per Bedroom**: 
   - Properties with more bedrooms tend to have higher average prices, peaking at 6 bedrooms.
-  - The price increases significantly from 4 to 6 bedrooms.
+  - The price increases significantly from 4 to 6 bedrooms, however having 7 bedrooms has a lower average price than 6.
 - **Price by Zipcode**:
   - Prices vary significantly by zipcode, with some areas showing much higher average prices than others.
-  - This variation can help identify the most and least expensive areas.
+  - This variation will help identify the most and least expensive areas.
 - **Revenue for Year**:
   - The revenue graph shows an upward trend, indicating a growing market or increasing demand over the year.
   - Seasonal fluctuations may also be visible, which can help in planning the best times to list the property.

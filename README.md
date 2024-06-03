@@ -1,4 +1,4 @@
-# Air BNB Data Visualization and Dashboard
+# Airbnb Data Visualization and Dashboard
 
 ## Table of Contents
 

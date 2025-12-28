@@ -28,6 +28,8 @@ The dashboard contains several key visualizations:
 1. **Average Price per Bedroom**: A bar chart showing the average price for properties with different numbers of bedrooms.
 2. **Price by Zipcode**: A map and bar chart illustrating the average price per zipcode.
 3. **Revenue for Year**: A line graph showing the cumulative revenue throughout the year.
+ 
+   [View Dashboard](https://github.com/Etondi/data_visualization/blob/Projects/Dashboard.png)
 
 ### Key Observations from Visualizations
 - **Average Price per Bedroom**: 

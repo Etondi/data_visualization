@@ -12,7 +12,7 @@
 
 
 ## Project Overview
-This project focuses on visualizating the Airbnb market to identify the best location for purchasing a property and renting it out.
+Built a business-facing dashboard to analyze Airbnb market trends and identify profitable opportunities for short-term rental investment. The dashboard supports data-driven decisions around pricing, location, and market entry strategy.
 
 ## Data Sources
 The dataset used in this project was obtained from [Inside Airbnb](https://insideairbnb.com/get-the-data/).
